@@ -1,9 +1,9 @@
-### Data Structures-Algorithms-Problems Contributing guidelines
+# Data Structures-Algorithms-Problems Contributing guidelines
 
 Welcome to Data Structures algorithms-Algorithms Before sending your pull requests, make sure that you read the whole guidelines. If you have any doubt on the contributing guide, please feel free to state it clearly in an issue.
 
-# Contributing and 
-# Contributor
+### Contributing and 
+### Contributor
 We are very happy that you consider implementing algorithms and data structures or solving a problems for others!, This repository is referenced and used by learners from around the globe. Being one of our contributors, you agree and confirm that:
 
 Please Any plagiarized work will not be merged.
@@ -14,12 +14,12 @@ New implementation is welcome! For example, new solutions to a problem, differen
 
 Improving comments or writing proper tests are also highly welcome.
 
-# Contribution
+### Contribution
 We appreciate any contribution, from fixing grammar mistakes to implementing complex algorithms. Please read this section if you are contributing to your work.
 
 If you submit a pull request that resolves an open issue, please help us to keep our issue list small by adding fixes: #{$ISSUE_NO} to your commit message. the issue will be closed if your PR is merged.
 
-# What is an Algorithm?
+### What is an Algorithm?
 An Algorithm is one or more functions (or classes) that:
 
 take one or more inputs.
@@ -28,25 +28,25 @@ return one or more outputs.
 have minimal side effects.
 Algorithms should be packaged in a way that would make it easy for readers to put them into larger programs.
 
-# Algorithms should:
+### Algorithms should:
 
 have intuitive class and function names that make their purpose clear to readers.
 use Programming naming conventions, Clean code and intuitive variable names to ease comprehension.
 be flexible to take different input values.
-# Data Structure
+### Data Structure
 Arrangement of data in other to solve problem.
-# Problems
+### Problems
 Solution to known list of coding challenges or problems using an Algorithm ,and or a Data-structure
 
-# You can use any programming language to contribute,
-# Implementing same Algorithm, Data-Structure, or a problem solution in another programming language is also welcome
+### You can use any programming language to contribute,
+### Implementing same Algorithm, Data-Structure, or a problem solution in another programming language is also welcome
 
-## File Naming Convention
+#### File Naming Convention
 filenames should use the UpperCamelCase (PascalCase) style.
 There should be no spaces in filenames.
 Example: LinkedList.py is allowed but linkedlist.py,Linkedlist.py,linked-list.py,linkedList.py are not.
 
-# Folder Structure
+### Folder Structure
 A folder name is also Upper-Camel-Case with hypen between.
 Folder name should be a  Data structure Implementations, Algorithm Implementations, or a Problems name.
 E.g  folder Sort, should include all sorting algorithms implementation.
