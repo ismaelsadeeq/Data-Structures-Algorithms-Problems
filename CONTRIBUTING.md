@@ -61,11 +61,9 @@ Add A Readme.md wo write a short problem or algorithm discription, Complexity/Ru
 Testing
 Be confident that your code works. When was the last time you committed a code change, your build failed, and half of your app stopped working? Mine was last week. Writing tests for our Algorithms will help us ensure the implementations are air tight even after multiple fixes and code changes.
 
-It is advised that the algorithm file (module) does not contain any "live" code but rather just exports the function(s) needed to execute the algorithm. Your test code can import those function(s), call them with the appropriate parameters and inspect the outcome. Example: RatInAMaze.test.js.
+It is advised that the algorithm file (module) does not contain any "live" code but rather just exports the function(s) needed to execute the algorithm.
 
 Please refrain from printing to the console in your implementation AND test code.
-
-You can (and should!) run all tests locally before committing your changes:
 
 
 Wriiten by @ismaelsadeeq 2022
