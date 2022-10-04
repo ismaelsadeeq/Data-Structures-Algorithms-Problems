@@ -1,4 +1,4 @@
-# Elements that appear once in java
+#Quick Sort in java
 
 Time complexity - O(n log(n))
 Space Complexity - O(log(n))
