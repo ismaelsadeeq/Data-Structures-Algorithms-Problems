@@ -20,6 +20,3 @@ def occurredOnce(array):
             return item
     
     return -1
-
-print(occurredOnce([1,2,3,3,4,2,4]))
-print(occurredOnce([1,2,1,3,3,4,2,4]))
