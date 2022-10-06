@@ -3,4 +3,4 @@
 Time complexity - O(n)
 Space Complexity - O(1)
 
-[Algorithm Explanation](https://www.algoexpert.io/questions/product-sum)
+[Algorithm Explanation](https://dev.to/sfrasica/algorithms-product-sum-from-an-array-dc6)
