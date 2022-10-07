@@ -18,6 +18,7 @@ void free_linked_list(node_t *list)
 		list = list->next;
 		free(new);
 	}
+}
 /**
  * free_circularly_linked_list - Function to free the allocated space in the
  * circularly linked list
