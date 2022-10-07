@@ -1,4 +1,5 @@
-![Data Structures](https://user-images.githubusercontent.com/89482825/194576057-541fae6e-8838-4dcc-8496-b7baabc24c3f.png)
+
+![Repo image](https://user-images.githubusercontent.com/89482825/194586491-fdb405a3-4430-427a-9899-a0393125cddf.png)
 
 
 # Algorithms-Problems-and-Data-Structures
