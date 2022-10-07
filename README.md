@@ -1,3 +1,7 @@
+
+![Repo image](https://user-images.githubusercontent.com/89482825/194586491-fdb405a3-4430-427a-9899-a0393125cddf.png)
+
+
 # Algorithms-Problems-and-Data-Structures
 This repository contains Data structure/algorithms Implementations, and problems solved in various programming language with explanation
 
