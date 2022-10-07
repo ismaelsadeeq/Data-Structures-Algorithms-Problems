@@ -55,8 +55,8 @@ E.g  folder Two-Pointer should have have problems  solved with the two pointer a
 E.g  folder Sliding-Window should have problems  solved with the sliding window algorithm.
 
 If a folder does not exist for the Data-Structure you implemented, Algorithm or problem you solve create a new folder,
-Create a folder with the Data-Structure or Algorithm name, In the folder create another folder (Programminglanguage-Data-structute) e.g Js-Linked-List
-Inside Js-LinkedList create the another folder LinkedList.js to write your solution.
+Create a folder with the Data-Structure or Algorithm name, In the folder if their is no folder for the programming language create another folder with the Programming language name. e.g Python then iside it create another folder for the (Data-structute) e.g Linked-List, 
+Inside LinkedList create the another folder LinkedList create another file (Data-structute) e.g Js-Linked-List.js to write your solution.
 Add A Readme.md wo write a short problem or algorithm discription, Complexity/Runtime and a link to a blog post Explanation.
 Testing
 Be confident that your code works. When was the last time you committed a code change, your build failed, and half of your app stopped working? Mine was last week. Writing tests for our Algorithms will help us ensure the implementations are air tight even after multiple fixes and code changes.
