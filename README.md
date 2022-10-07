@@ -8,7 +8,7 @@ This repository contains Data structure/algorithms Implementations, and problems
 ## 👩🏽‍💻 Contributing
 
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
-- Any contributions you make are greatly appreciated.
+- We value your contributions and thank you in advance.
 - Check out our [contribution guidelines](/CONTRIBUTING.md) for more information.
 
 ## 🛡️ License
