@@ -13,19 +13,19 @@ Take a look at the `linked.h` header file to see the prototype to use
 ### Singly Linked List
 
 ```
-gcc -Wall -Wextra -Werror -pedantic -std=gnu89 <main_file> PrintLinkedList.c FreeLinkedList.c CreateLinkedList.c -o <name_you_want>
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89 <main_file> PrintLinkedList.c FreeLinkedList.c CreateLinkedList.c DeleteLinkedList.c -o <name_you_want>
 ```
 
 ### Doubly Linked List
 
 ```
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 <main_file> PrintLinkedList.c FreeLinkedList.c CreateLinkedList.c -o <name_you_want>
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 <main_file> PrintLinkedList.c FreeLinkedList.c CreateLinkedList.c DeleteLinkedList.c -o <name_you_want>
 ```
 
 ### Circularly Linked List
 
 ```
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 <main_file> PrintLinkedList.c FreeLinkedList.c CreateLinkedList.c -o <name_you_want>
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 <main_file> PrintLinkedList.c FreeLinkedList.c CreateLinkedList.c DeleteLinkedList.c -o <name_you_want>
 ```
 
 # How to create the `main_file`
