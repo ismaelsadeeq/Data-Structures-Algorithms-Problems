@@ -61,6 +61,3 @@ dkms.conf
 *.sh
 *.exe
 *.exe.stackdump
-CircularLinkedList.c
-SinglyLinkedList.c
-DoublyLinkedList.c
