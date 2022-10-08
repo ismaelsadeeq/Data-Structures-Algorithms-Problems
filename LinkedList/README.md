@@ -37,7 +37,7 @@ To create the main file which contains the main function, follow the steps
 - The main function can also be declared. The main function is a very essential part in C programming.
 - Prototypes that care included in `linked.h` file can be used as function calls in the main function
 
-[Take a look at my functions to get a clue]()
+[Take a look at my functions to get a clue](https://github.com/Ddilibe/Data-Structures-Algorithms-Problems_ismaelsadeeq/tree/linked/LinkedList/C)
 
 ## Note
 All allocated blocks were freed and there is no possibility of a leak. The confirmation was verified from valgrind
