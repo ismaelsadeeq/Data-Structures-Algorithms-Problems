@@ -2,7 +2,7 @@
 
 Welcome to Data-Structures-Algorithms-Problems. Please make sure you have read the entire guideline before sending in your pull requests. If you have any doubts about the contributing guide, please don't hesitate to make it known in an issue.
 
-### Contributing and 
+### Contributing Guidelines
 ### Contributor
 We are thrilled that you are considering implementing Algorithms, Data-Structures, or solving problems for others!
 This repository is referenced and used by learners from around the globe. As one of our contributors, you agree and confirm that:
