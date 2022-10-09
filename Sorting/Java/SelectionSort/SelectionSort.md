@@ -1,6 +1,6 @@
 # Selection Sort Algorithm
 https://www.programiz.com/dsa/selection-sort
-You can suggest go and read about it from the above blog post
+Read about Selection Sort in the blog post above.
 
 Time Complexity: O(n²)
 Space Complexity: O(1)
