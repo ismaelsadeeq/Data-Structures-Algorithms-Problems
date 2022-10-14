@@ -54,7 +54,7 @@ E.g  folder Array should have problems solved with the array data-structure
 E.g  folder Two-Pointer should have have problems  solved with the two pointer algorithm
 E.g  folder Sliding-Window should have problems solved with the sliding window algorithm.
 
-Create a new folder if one doesn't already exist for the Data-Structure, Algorithm, or problem you solved. Make a folder with the name of the Data-Structure or Algorithm. In the folder if their is no folder for the programming language create another folder with the programming language name. e.g Python then inside it create another folder for the Data-Structure e.g LinkedList, 
+Create a new folder if one doesn't already exist for the Data-Structure, Algorithm, or problem you solved. Make a folder with the name of the Data-Structure or Algorithm. In the folder if there is no folder for the programming language create another folder with the programming language name. e.g Python then inside it create another folder for the Data-Structure e.g LinkedList, 
 inside LinkedList create source file for the Data-Structute e.g Js-Linked-List.js to write your solution.
 Add a ReadMe.md file with a brief description of the problem or algorithm, its complexity and runtime, and a link to an explanation blog post.
 
