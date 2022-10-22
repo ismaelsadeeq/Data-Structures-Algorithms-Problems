@@ -12,6 +12,6 @@ typedef struct Node {
 
 Node* newNode(int key);
 bool isMirror(Node *root1, Node *root2);
-bool isSymmetric(Node* root);
+bool isSymmetric(Node *root);
 
 #endif
