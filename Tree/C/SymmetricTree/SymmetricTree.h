@@ -10,7 +10,7 @@ typedef struct Node {
     struct Node *left, *right;
 } Node;
 
-Node* newNode(int key);
+Node *newNode(int key);
 bool isMirror(Node *root1, Node *root2);
 bool isSymmetric(Node *root);
 
