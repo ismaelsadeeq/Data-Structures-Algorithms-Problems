@@ -9,7 +9,7 @@ typedef struct Stack {
     int top;
     unsigned capacity;
     int *array;
-};
+} Stack;
 
 Stack *createStack(unsigned capacity);
 int isFull(Stack *stack);

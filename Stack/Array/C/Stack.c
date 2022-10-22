@@ -8,7 +8,7 @@
 Stack *createStack(unsigned capacity)
 {
     Stack *stack = malloc(sizeof(Stack));
-    if (Stack == NULL)
+    if (stack == NULL)
 	    return NULL;
     stack->capacity = capacity;
     stack->top = -1;
