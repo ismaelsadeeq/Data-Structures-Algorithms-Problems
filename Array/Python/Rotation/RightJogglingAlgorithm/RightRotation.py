@@ -1,6 +1,8 @@
 def rotate(arr,r):
   n = len(arr)
-
+  if n == 0:
+    return
+    
   gcd = findGcd(n,r)
 
   r = n-r
