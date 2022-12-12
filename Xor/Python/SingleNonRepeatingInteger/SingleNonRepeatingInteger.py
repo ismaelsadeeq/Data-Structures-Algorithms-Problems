@@ -7,4 +7,4 @@ def singleNonRepeating(nums):
         value = value ^ nums[i]
 
     
-    return nums
+    return value
