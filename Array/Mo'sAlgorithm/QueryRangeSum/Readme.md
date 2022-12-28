@@ -1,4 +1,4 @@
-# Find the sum of every query range. [l,r] [l,r]
+# Find the sum of every query range in an array. [l,r] [l,r]
 
 Time complexity - O(n (sqrt(n)))
 Space Complexity - O(n)
