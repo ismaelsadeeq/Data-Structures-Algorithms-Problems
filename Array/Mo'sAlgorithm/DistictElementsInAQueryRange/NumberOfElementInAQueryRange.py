@@ -61,16 +61,14 @@ def distinctElements(nums,query):
             
         
 
-
         ans[q[0]] = count
 
     return ans
 
 
 
-        
+
 nums = [1, 1, 2, 1, 3]
 q = [[1, 5],[2, 4],[3, 5]]
 
 print(distinctElements(nums,q))
-# 
