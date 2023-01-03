@@ -2,7 +2,7 @@ import math
 
 def solveQueries( nums, Queries, k):
     #Code here
-    answers= [0] *len(Queries)
+    answers= [0] * len(Queries)
       
     count = {}
     n = int(math.sqrt(len(nums)))+1

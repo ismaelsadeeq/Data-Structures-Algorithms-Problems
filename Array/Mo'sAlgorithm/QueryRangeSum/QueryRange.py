@@ -4,7 +4,7 @@ def sumOfRanges(nums,n,Queries):
     
     b = int(math.sqrt(n))
     
-    nB = int(n/b)
+    nB = int(n/b)+1
     
     
     blocks = []

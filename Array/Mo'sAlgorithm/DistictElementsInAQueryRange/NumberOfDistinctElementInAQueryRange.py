@@ -6,7 +6,7 @@ def distinctElements(nums,query):
     n = int(math.sqrt(len(nums))) + 1
  
     query = list(enumerate(query))
- 
+    print(query)
     query.sort(key= lambda a:[int(a[1][0]/n),-a[1][1]])
  
     ans = [0] * len(query)
