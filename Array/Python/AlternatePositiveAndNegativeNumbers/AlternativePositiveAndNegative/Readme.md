@@ -1,4 +1,4 @@
-# Rearrange positive and negative numbers in O(n) time and O(1) extra space
+# Rearrange positive and negative numbers in O(n) time and O(n) extra space
 
 Time complexity - O(n)
 Space Complexity - O(n)
