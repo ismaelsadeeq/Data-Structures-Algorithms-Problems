@@ -1,4 +1,4 @@
-# Equilibrium Index of an array
+# Prefix of an array
 
 Time complexity - O(n)
 Space Complexity - O(1)
