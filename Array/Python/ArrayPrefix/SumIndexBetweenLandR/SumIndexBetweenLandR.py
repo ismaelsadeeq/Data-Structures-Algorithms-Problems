@@ -5,7 +5,6 @@ def findSumOfIndex(arr,Q):
     sum+=arr[i]
     arr[i] = sum
 
-  print(arr)
   ans = []
   for i in range(len(Q)):
     l = Q[i][0]-1
@@ -20,3 +19,10 @@ def findSumOfIndex(arr,Q):
 arr = [3, 6, 2, 8, 9, 2]
 Q = [[2, 3], [4, 6], [1, 5], [3, 6]]
 print(findSumOfIndex(arr,Q))
+
+
+
+
+
+
+  
