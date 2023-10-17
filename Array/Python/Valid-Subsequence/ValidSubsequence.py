@@ -18,6 +18,13 @@ def isValidSubsequence(array, sequence):
         if i in array:
             ind = array.index(i)
             array = array[ind + 1:]
+            
         else:
             return False
     return True
+a = [1, 2, 3, 4, 5]
+b = [1, 3]
+c = [4, 2, 1]
+print(isValidSubsequence(a,b))
+print()
+print(isValidSubsequence(a,c))
