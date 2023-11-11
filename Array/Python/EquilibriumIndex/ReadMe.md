@@ -1,5 +1,7 @@
 # Equilibrium Index of an array
 
+<!-- The BigO -->
+
 Time complexity - O(n)
 Space Complexity - O(1)
 
